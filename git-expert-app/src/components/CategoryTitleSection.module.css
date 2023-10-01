@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 5px 0px 5px 0px;
+}
+
+.categoryTitle {
+    text-shadow: 2px 4px 5px rgba(204, 236, 85, 0.5);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
